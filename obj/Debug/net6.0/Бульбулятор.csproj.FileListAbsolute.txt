@@ -1,0 +1,15 @@
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.csproj.AssemblyReference.cache
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.GeneratedMSBuildEditorConfig.editorconfig
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.AssemblyInfoInputs.cache
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.AssemblyInfo.cs
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.csproj.CoreCompileInputs.cache
+D:\Бульбулятор\bin\Debug\net6.0\Бульбулятор.exe
+D:\Бульбулятор\bin\Debug\net6.0\Бульбулятор.deps.json
+D:\Бульбулятор\bin\Debug\net6.0\Бульбулятор.runtimeconfig.json
+D:\Бульбулятор\bin\Debug\net6.0\Бульбулятор.dll
+D:\Бульбулятор\bin\Debug\net6.0\Бульбулятор.pdb
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.dll
+D:\Бульбулятор\obj\Debug\net6.0\refint\Бульбулятор.dll
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.pdb
+D:\Бульбулятор\obj\Debug\net6.0\Бульбулятор.genruntimeconfig.cache
+D:\Бульбулятор\obj\Debug\net6.0\ref\Бульбулятор.dll
